@@ -22,12 +22,12 @@ According to some rules, the role of dead players should not be revealed; accord
 Because players have more freedom to deliberate, days tend to be longer than nights.
 
 ## My project
-The project is created in VS using C#. It features a random generator, giving each selected player a role. 
+##### The project is created in VS using C#. It features a random generator, giving each selected player a role. 
 ![Screenshot](1.png)
-The user can add any name of a player he wants or edit the current list.
+#####The user can add any name of a player he wants or edit the current list.
 ### Editing the whole list:
 ![Screenshot](2.png)
 ### Adding names:
 ![Screenshot](3.png)
-The project also has an automated night calculator for 12 of the available roles. The user must select a target for each of the roles in order. After that the result of the night is displayed on screen.
+##### The project also has an automated night calculator for 12 of the available roles. The user must select a target for each of the roles in order. After that the result of the night is displayed on screen.
 ![Screenshot](4.png)
