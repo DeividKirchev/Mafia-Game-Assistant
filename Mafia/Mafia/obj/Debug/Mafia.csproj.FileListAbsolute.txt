@@ -1,0 +1,13 @@
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\bin\Debug\Mafia.exe.config
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\bin\Debug\Mafia.exe
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\bin\Debug\Mafia.pdb
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.Form1.resources
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.exe
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.pdb
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.Form2.resources
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.Form3.resources
+C:\Users\david\OneDrive\Desktop\Mafia\Mafia\obj\Debug\Mafia.Form31.resources
