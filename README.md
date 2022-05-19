@@ -25,9 +25,9 @@ Because players have more freedom to deliberate, days tend to be longer than nig
 The project is created in VS using C#. It features a random generator, giving each selected player a role. 
 ![Screenshot](1.png)
 The user can add any name of a player he wants or edit the current list.
-###Editing the whole list:
+### Editing the whole list:
 ![Screenshot](2.png)
-###Adding names:
+### Adding names:
 ![Screenshot](3.png)
 The project also has an automated night calculator for 12 of the available roles. The user must select a target for each of the roles in order. After that the result of the night is displayed on screen.
 ![Screenshot](4.png)
